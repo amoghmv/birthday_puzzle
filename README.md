@@ -7,5 +7,5 @@
 3. Answer it
 4. Can't be simpler than that
 
-> don't edit the code, goes without saying
+> don't edit the code, goes without saying.
 > works on phone, I made sure of it

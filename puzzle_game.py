@@ -14,7 +14,7 @@ def boot_sequence():
     time.sleep(2)
     print("Verifying system uptime: 27 years. leg in healing process....")
     time.sleep(2)
-    print("Authenticating user /anirudhmv/....")
+    print("Authenticating user /zenhons101/....")
     time.sleep(2)
     print(Fore.CYAN + "\nAccess Granted.\n")
     time.sleep(1)

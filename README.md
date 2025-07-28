@@ -6,6 +6,4 @@
 1. Click the **run** button above
 2. Read the question
 3. Answer it
-4. Can't be simpler than that
-
 

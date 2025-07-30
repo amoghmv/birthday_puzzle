@@ -56,8 +56,8 @@ def puzzle_three():
     print(Fore.BLUE + "Puzzle 3: Regional Language Test\n")
     time.sleep(1)
 
-    print('if statement == "neenu bassist ah racist ah?":')
-    print("Translate this to English.\n")
+    print("are you a bassist or a racist?")
+    print("?\n")
 
     answer = input("Your answer: ").strip().lower()
 
